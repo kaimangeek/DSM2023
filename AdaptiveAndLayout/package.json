@@ -1,0 +1,23 @@
+{
+  "name": "adaptiveandlayout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaimangeek/DSM2023.git"
+  },
+  "author": "Kaymanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaimangeek/DSM2023/issues"
+  },
+  "homepage": "https://github.com/kaimangeek/DSM2023#readme",
+  "dependencies": {
+    "stylelint": "^15.2.0",
+    "stylelint-config-standard": "^30.0.1"
+  }
+}
